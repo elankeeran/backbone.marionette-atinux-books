@@ -37,3 +37,13 @@ Icon?
 ehthumbs.db
 Thumbs.db
 
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/
+
+*~
+*.kate-swp
+bin/
+.sass-cache/
+
